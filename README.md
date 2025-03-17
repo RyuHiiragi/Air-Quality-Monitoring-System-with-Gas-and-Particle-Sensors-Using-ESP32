@@ -1,4 +1,5 @@
 # Air Quality Monitoring System Using ESP32
+![Project Banner](https://i.pinimg.com/736x/7f/00/93/7f00933f50f2688601e449be64023943.jpg)
 
 This repository contains the code and instructions for building an **air quality monitoring system** that uses the ESP32 microcontroller to integrate gas and particle sensors. The system measures air quality parameters and sends the data to a cloud dashboard for real-time monitoring <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="5">.
 
